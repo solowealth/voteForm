@@ -1,0 +1,61 @@
+*{
+    background-color: blue;
+}
+
+h1{
+    color: white;
+}
+
+#programmer{
+    color: whitesmoke;
+}
+
+#image1{
+    width: 50%
+    border: 3px solid black;
+    align-items: center;
+    image-rendering: crisp-edges;
+}
+
+#image2{
+    text-align: center;
+    width: 50%;
+}
+
+#skills{
+    border-style: dashed;
+    color: whitesmoke;
+}
+
+#about{
+    color: whitesmoke;
+    border-style: double;
+}
+
+#field{
+    border-color: deeppink;
+    border-width: 0.5cm;
+}
+
+#program{
+    color: white;
+}
+
+#services{
+    color: white;
+}
+
+#front-end{
+    color: white;
+}
+
+#submit{
+    inline-size: 3cm;
+    color: black;
+    border-color: chocolate;
+}
+
+p{
+    padding: 1cm;
+    pa
+}
